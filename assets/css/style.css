@@ -111,10 +111,10 @@ h3, h2 {
   
 .work {
     position: relative;
-    float: ;
+    float: left;
     width: 274px;
     margin: 20px 0 25px;
-    overflow: none;
+    overflow: auto;
 }
   
 .work:nth-child(even) {
